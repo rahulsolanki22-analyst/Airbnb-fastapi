@@ -61,6 +61,7 @@ No manual table dropping
 Proper schema tracking
 
 📂 Project Structure
+
 airbnb_backend/
 │
 ├── app/
